@@ -1,0 +1,228 @@
+a					{ color: #000000; text-decoration: underline; }
+a:visited		{ color: #000000; text-decoration: underline; }
+a:active			{ color: #000000; text-decoration: none; }
+a:hover			{ color: #000000; text-decoration: none; }
+
+
+body
+{
+margin: 0;
+padding: 0;
+background-color: #FFFFFF;
+font-family: Trebuchet, Trebuchet MS,Helvetica, sans-serif;
+font-size: 80%;
+color: #666666;
+text-align: center;
+}
+
+h1
+{
+font-size: 1.5em;
+}
+
+h2
+{
+font-size: 1.2em;
+}
+
+#header
+{
+height: 28px;
+}
+#main
+{
+position: relative;
+width: 800px;
+background-color: #FFFFFF;
+margin-left: auto;
+margin-right: auto;
+text-align: left;
+}
+
+#main_header
+{
+height:80;
+}
+
+#main_logo
+{
+position: absolute;
+top: 20px;
+left: 25px;
+margin: 0px;
+padding: 0px;
+height: 45px;
+width: 200px;
+}
+
+
+#main_button0
+{
+position: absolute;
+top: 0px;
+right: 355px;
+margin: 0px;
+padding: 0px;
+height: 60px;
+width: 110px;
+}
+#main_button1
+{
+position: absolute;
+top: 0px;
+right: 245px;
+margin: 0px;
+padding: 0px;
+height: 60px;
+width: 110px;
+}
+#main_button2
+{
+position: absolute;
+top: 0px;
+right: 135px;
+margin: 0px;
+padding: 0px;
+height: 60px;
+width: 110px;
+}
+#main_button3
+{
+position: absolute;
+top: 0px;
+right: 25px;
+margin: 0px;
+padding: 0px;
+height: 60px;
+width: 110px;
+}
+
+#main_world
+{
+position: relative;
+left: 66px;
+margin: 0px;
+padding: 0px;
+width: 667px;
+}
+
+#main_game
+{
+position: relative;
+left: 1px;
+margin: 0px;
+padding: 0px;
+width: 800px;
+}
+#main_village
+{
+position: relative;
+left: 17px;
+margin: 0px;
+padding: 0px;
+width: 770px;
+}
+
+#content
+{
+position: relative;
+left: 50px;
+padding: 0px;
+width: 700px;
+}
+#content_pad
+{
+position: relative;
+width: 700px;
+}
+#content_top
+{
+position: absolute;
+left: 0px;
+top: 0px;
+width:470px;
+}
+#content_top_image
+{
+float: right;
+}
+
+#content_left_of_widget
+{
+position: relative;
+width:270px;
+}
+#xxxcontent_left_of_widget
+{
+position: absolute;
+left: 0px;
+top: 0px;
+width:270px;
+}
+
+#content_top_widget
+{
+width: 360px;
+height: 345px;
+}
+
+#content_rest
+{
+ clear:both;
+
+}
+
+
+#main_content
+{
+position: relative;
+left: 50px;
+margin: 0px;
+padding: 0px;
+width: 700px;
+}
+
+#leftCol
+{
+float: left;
+width: 320px;
+}
+
+#rightCol
+{
+float: left;
+width: 360px;
+margin-left: 20px;
+}
+
+#rightCol td
+{
+font-family: Trebuchet, Trebuchet MS,Helvetica, sans-serif;
+font-size: 80%;
+color: #666666;
+}
+
+#midfocus
+{
+padding: 0px;
+width: 700px;
+margin-left: auto ;
+margin-right: auto ;
+}
+
+#main_footer
+{
+position: relative;
+left: 25px;
+top: 15px;
+margin: 0px;
+padding: 0px;
+width: 750px;
+
+}
+
+
+
+
+
+

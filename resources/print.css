@@ -1,0 +1,73 @@
+
+#headerLogo
+{
+float: left;
+}
+
+h1
+{
+visibility: hidden;
+overflow: hidden;
+height: 0px;
+}
+
+.right
+{
+float: right;
+}
+
+.left
+{
+float: left;
+}
+
+#headerNav
+{
+visibility: hidden;
+overflow: hidden;
+height: 0px;
+}
+
+#headerImage
+{
+visibility: hidden;
+overflow: hidden;
+height: 0px;
+}
+
+#subNavButtons
+{
+visibility: hidden;
+overflow: hidden;
+height: 0px;
+}
+
+#bodyContainer
+{
+width: 100%px;
+}
+
+#bodyLeft
+{
+width: 100%;
+}
+
+#bodyRight
+{
+visibility: hidden;
+overflow: hidden;
+height: 0px;
+}
+
+#footer
+{ 
+text-align: left;
+padding: 0px 0px 0px 0px;
+}
+
+#footer li
+{
+visibility: hidden;
+overflow: hidden;
+height: 0px;
+}
